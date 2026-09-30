@@ -19,11 +19,20 @@ namespace MonitoreoVehiculo
                 new Sensor("Temperatura", "°C", 90.0, esAlertaPorMinimo: false),
                 new Sensor("RPM", "rpm", 7000.0, esAlertaPorMinimo: false),
                 new Sensor("Nivel de combustible", "litros", 0, esAlertaPorMinimo: true),
-                new Sensor("Presión del múltiple", "KPa", 100.0, esAlertaPorMinimo: false)
+                new Sensor("Presión del múltiple", "KPa", 100.0, esAlertaPorMinimo: false),
+                new SensorTemperatura("Sensor Derivado", "°C", 30.0)
             };
 
+            // <Wrapper> (envoltorio)
+            // Para las listas de objetos se ocupa
+            // Lista<WrapperClase> nombreLista = new Lista<WrapperClaseConstructor>();
+            List<Sensor> lista = new List<Sensor>();
+            lista.Add(
+                new Sensor("Presión del múltiple", "KPa", 100.0, esAlertaPorMinimo: false)
+            );
+
             // Procesamiento de lecturas para cada sensor
-            foreach (Sensor s in sensores)
+            /*foreach (Sensor s in sensores)
             {
                 s.Leer();
             }
@@ -32,8 +41,15 @@ namespace MonitoreoVehiculo
             foreach (Sensor s in sensores)
             {
                 s.MostrarReporte();
-            }
-        }
+                if(s.enAlerta())
+                    Console.WriteLine("\n[Alerta] El sensor de Temperatura ha excedido el umbral.");
+            }*/
+
+            // Crear dos objetos para ver la diferencia de comportamiento entre la clase base y la clase derivada
+            Sensor sensorBase = new Sensor("Sensor Base", "unidad", 50.0);
+            SensorTemperatura sensorDerivado = new SensorTemperatura("Sensor Derivado", "°C", 30.0);
+
+            Sensor sensorPolimorfico = new Sensor("Sensor Polimórfico");       }
     }
 
     /// <summary>
@@ -43,7 +59,7 @@ namespace MonitoreoVehiculo
     class Sensor
     {
         // Atributos de la clase
-        protected string Nombre;
+        private string Nombre;
         private string Unidad;
         private double Umbral;
         private double CapacidadTanque;
@@ -101,6 +117,17 @@ namespace MonitoreoVehiculo
             Unidad = unidad;
             Umbral = umbral;
             EsAlertaPorMinimo = esAlertaPorMinimo;
+            Lecturas = new double[0];
+            CapacidadTanque = 0;
+            Console.WriteLine("Sensor padre");
+        }
+
+        public Sensor(string nombre)
+        {
+            Nombre = nombre;
+            Unidad = "unidad";
+            Umbral = 0;
+            EsAlertaPorMinimo = false;
             Lecturas = new double[0];
             CapacidadTanque = 0;
         }
@@ -235,6 +262,11 @@ namespace MonitoreoVehiculo
             if (hayAlerta)
                 Console.WriteLine("      ¡Límite excedido!");
         }
+
+        public virtual bool enAlerta()
+        {
+            return Maxima() > Umbral;
+        }
     }
 
     // Herencia 
@@ -244,7 +276,12 @@ namespace MonitoreoVehiculo
         public SensorTemperatura(string nombre, string unidad, double umbral)
             : base(nombre, unidad, umbral)
         {
-            
+            Console.WriteLine("Sensor clase hija");
+        }
+
+        public override bool enAlerta()
+        {
+            return Minima() < Umbral1;
         }
 
         // Método adicional específico para el sensor de temperatura
