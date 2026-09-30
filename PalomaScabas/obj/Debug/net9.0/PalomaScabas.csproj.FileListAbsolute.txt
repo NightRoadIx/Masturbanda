@@ -12,3 +12,4 @@ c:\Users\s_bio\OneDrive - Instituto Politecnico Nacional\Documents\Masturbanda\P
 c:\Users\s_bio\OneDrive - Instituto Politecnico Nacional\Documents\Masturbanda\PalomaScabas\obj\Debug\net9.0\PalomaScabas.pdb
 c:\Users\s_bio\OneDrive - Instituto Politecnico Nacional\Documents\Masturbanda\PalomaScabas\obj\Debug\net9.0\PalomaScabas.genruntimeconfig.cache
 c:\Users\s_bio\OneDrive - Instituto Politecnico Nacional\Documents\Masturbanda\PalomaScabas\obj\Debug\net9.0\ref\PalomaScabas.dll
+c:\Users\s_bio\OneDrive - Instituto Politecnico Nacional\Documents\Masturbanda\PalomaScabas\obj\Debug\net9.0\PalomaScabas.sourcelink.json
