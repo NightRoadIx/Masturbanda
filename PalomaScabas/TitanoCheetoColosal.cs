@@ -2,7 +2,7 @@ namespace MonitoreoVehiculo
 {
     class TitanoCheetoColosal
     {
-        public static void Main()
+        static void Main(string[] args)
         {
             // Pero se puede instanciar un objeto a partir
             // de la interfaz de la que heredan

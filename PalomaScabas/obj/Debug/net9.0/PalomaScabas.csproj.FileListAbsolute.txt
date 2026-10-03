@@ -1,15 +1,23 @@
-c:\Users\s_bio\OneDrive - Instituto Politecnico Nacional\Documents\Masturbanda\PalomaScabas\bin\Debug\net9.0\PalomaScabas.exe
-c:\Users\s_bio\OneDrive - Instituto Politecnico Nacional\Documents\Masturbanda\PalomaScabas\bin\Debug\net9.0\PalomaScabas.deps.json
-c:\Users\s_bio\OneDrive - Instituto Politecnico Nacional\Documents\Masturbanda\PalomaScabas\bin\Debug\net9.0\PalomaScabas.runtimeconfig.json
-c:\Users\s_bio\OneDrive - Instituto Politecnico Nacional\Documents\Masturbanda\PalomaScabas\bin\Debug\net9.0\PalomaScabas.dll
-c:\Users\s_bio\OneDrive - Instituto Politecnico Nacional\Documents\Masturbanda\PalomaScabas\bin\Debug\net9.0\PalomaScabas.pdb
-c:\Users\s_bio\OneDrive - Instituto Politecnico Nacional\Documents\Masturbanda\PalomaScabas\obj\Debug\net9.0\PalomaScabas.GeneratedMSBuildEditorConfig.editorconfig
-c:\Users\s_bio\OneDrive - Instituto Politecnico Nacional\Documents\Masturbanda\PalomaScabas\obj\Debug\net9.0\PalomaScabas.AssemblyInfoInputs.cache
-c:\Users\s_bio\OneDrive - Instituto Politecnico Nacional\Documents\Masturbanda\PalomaScabas\obj\Debug\net9.0\PalomaScabas.AssemblyInfo.cs
-c:\Users\s_bio\OneDrive - Instituto Politecnico Nacional\Documents\Masturbanda\PalomaScabas\obj\Debug\net9.0\PalomaScabas.csproj.CoreCompileInputs.cache
-c:\Users\s_bio\OneDrive - Instituto Politecnico Nacional\Documents\Masturbanda\PalomaScabas\obj\Debug\net9.0\PalomaScabas.dll
-c:\Users\s_bio\OneDrive - Instituto Politecnico Nacional\Documents\Masturbanda\PalomaScabas\obj\Debug\net9.0\refint\PalomaScabas.dll
-c:\Users\s_bio\OneDrive - Instituto Politecnico Nacional\Documents\Masturbanda\PalomaScabas\obj\Debug\net9.0\PalomaScabas.pdb
-c:\Users\s_bio\OneDrive - Instituto Politecnico Nacional\Documents\Masturbanda\PalomaScabas\obj\Debug\net9.0\PalomaScabas.genruntimeconfig.cache
-c:\Users\s_bio\OneDrive - Instituto Politecnico Nacional\Documents\Masturbanda\PalomaScabas\obj\Debug\net9.0\ref\PalomaScabas.dll
-c:\Users\s_bio\OneDrive - Instituto Politecnico Nacional\Documents\Masturbanda\PalomaScabas\obj\Debug\net9.0\PalomaScabas.sourcelink.json
+c:/Users/s_bio/OneDrive - Instituto Politecnico Nacional/Documents/Masturbanda/PalomaScabas/bin/Debug/net9.0/PalomaScabas.exe
+c:/Users/s_bio/OneDrive - Instituto Politecnico Nacional/Documents/Masturbanda/PalomaScabas/bin/Debug/net9.0/PalomaScabas.deps.json
+c:/Users/s_bio/OneDrive - Instituto Politecnico Nacional/Documents/Masturbanda/PalomaScabas/bin/Debug/net9.0/PalomaScabas.runtimeconfig.json
+c:/Users/s_bio/OneDrive - Instituto Politecnico Nacional/Documents/Masturbanda/PalomaScabas/bin/Debug/net9.0/PalomaScabas.dll
+c:/Users/s_bio/OneDrive - Instituto Politecnico Nacional/Documents/Masturbanda/PalomaScabas/bin/Debug/net9.0/PalomaScabas.pdb
+c:/Users/s_bio/OneDrive - Instituto Politecnico Nacional/Documents/Masturbanda/PalomaScabas/obj/Debug/net9.0/PalomaScabas.GeneratedMSBuildEditorConfig.editorconfig
+c:/Users/s_bio/OneDrive - Instituto Politecnico Nacional/Documents/Masturbanda/PalomaScabas/obj/Debug/net9.0/PalomaScabas.AssemblyInfoInputs.cache
+c:/Users/s_bio/OneDrive - Instituto Politecnico Nacional/Documents/Masturbanda/PalomaScabas/obj/Debug/net9.0/PalomaScabas.AssemblyInfo.cs
+c:/Users/s_bio/OneDrive - Instituto Politecnico Nacional/Documents/Masturbanda/PalomaScabas/obj/Debug/net9.0/PalomaScabas.csproj.CoreCompileInputs.cache
+c:/Users/s_bio/OneDrive - Instituto Politecnico Nacional/Documents/Masturbanda/PalomaScabas/obj/Debug/net9.0/PalomaScabas.dll
+c:/Users/s_bio/OneDrive - Instituto Politecnico Nacional/Documents/Masturbanda/PalomaScabas/obj/Debug/net9.0/refint/PalomaScabas.dll
+c:/Users/s_bio/OneDrive - Instituto Politecnico Nacional/Documents/Masturbanda/PalomaScabas/obj/Debug/net9.0/PalomaScabas.pdb
+c:/Users/s_bio/OneDrive - Instituto Politecnico Nacional/Documents/Masturbanda/PalomaScabas/obj/Debug/net9.0/PalomaScabas.genruntimeconfig.cache
+c:/Users/s_bio/OneDrive - Instituto Politecnico Nacional/Documents/Masturbanda/PalomaScabas/obj/Debug/net9.0/ref/PalomaScabas.dll
+c:/Users/s_bio/OneDrive - Instituto Politecnico Nacional/Documents/Masturbanda/PalomaScabas/obj/Debug/net9.0/PalomaScabas.sourcelink.json
+/Users/nightroadix/Documents/cGatito/Masturbanda/PalomaScabas/obj/Debug/net9.0/PalomaScabas.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nightroadix/Documents/cGatito/Masturbanda/PalomaScabas/obj/Debug/net9.0/PalomaScabas.AssemblyInfoInputs.cache
+/Users/nightroadix/Documents/cGatito/Masturbanda/PalomaScabas/obj/Debug/net9.0/PalomaScabas.AssemblyInfo.cs
+/Users/nightroadix/Documents/cGatito/Masturbanda/PalomaScabas/obj/Debug/net9.0/PalomaScabas.csproj.CoreCompileInputs.cache
+/Users/nightroadix/Documents/cGatito/Masturbanda/PalomaScabas/obj/Debug/net9.0/PalomaScabas.sourcelink.json
+/Users/nightroadix/Documents/cGatito/Masturbanda/PalomaScabas/obj/Debug/net9.0/PalomaScabas.dll
+/Users/nightroadix/Documents/cGatito/Masturbanda/PalomaScabas/obj/Debug/net9.0/refint/PalomaScabas.dll
+/Users/nightroadix/Documents/cGatito/Masturbanda/PalomaScabas/obj/Debug/net9.0/PalomaScabas.pdb

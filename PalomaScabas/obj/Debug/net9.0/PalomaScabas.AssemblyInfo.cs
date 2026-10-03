@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PalomaScabas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2ed8aa8e38b7bf4949ebd7347485432626fe89f0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bba4218ce340cdb85a2f2b59697a8764e45eec49")]
 [assembly: System.Reflection.AssemblyProductAttribute("PalomaScabas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PalomaScabas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
