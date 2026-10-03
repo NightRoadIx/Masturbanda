@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "K425hYBwEK0=",
+  "dgSpecHash": "9Jr5T3da+uA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\s_bio\\OneDrive - Instituto Politecnico Nacional\\Documents\\Masturbanda\\PalomaScabas\\PalomaScabas.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/nightroadix/Documents/cGatito/Masturbanda/PalomaScabas/PalomaScabas.csproj",
+  "expectedPackageFiles": [
+    "/Users/nightroadix/.nuget/packages/microsoft.netcore.app.ref/9.0.20/microsoft.netcore.app.ref.9.0.20.nupkg.sha512",
+    "/Users/nightroadix/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.20/microsoft.aspnetcore.app.ref.9.0.20.nupkg.sha512",
+    "/Users/nightroadix/.nuget/packages/microsoft.netcore.app.host.osx-arm64/9.0.20/microsoft.netcore.app.host.osx-arm64.9.0.20.nupkg.sha512"
+  ],
   "logs": []
 }
